@@ -1,6 +1,6 @@
 # Graphics-Based Game: 2048
 
-This repository contains 2048 - a single-player sliding tile puzzle video game using Java.
+This repository contains [2048](https://github.com/Pooja-Codes/Java-Project-2048/tree/main/2048) - a single-player sliding tile puzzle video game using Java.
 The game aims to arrange numbered tiles in a grid so that they add up to
 the number 2048. This is a graphics and
 animation-oriented game that has to take inputs from a keyboard (WASD keys OR Arrow keys).
