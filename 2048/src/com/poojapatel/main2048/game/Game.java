@@ -149,7 +149,7 @@ public class Game {
 	
 	public void renderText(Graphics2D g) {
 		g.setRenderingHint(RenderingHints.KEY_ANTIALIASING,RenderingHints.VALUE_ANTIALIAS_ON);
-		g.setFont(new Font("Comic Sans MS",0,100));
+		g.setFont(new Font("Comic Sans MS",0,80));
 		g.setColor(Color.WHITE);
 		
 		for(int i=0;i<objects.size();i++) {
